@@ -3,9 +3,10 @@
 ###  S M Mofassel Hosain
 #### I am a Web Developer
 
-I am a web developer . I am always ready to new coding releted solving
+## I am a web developer . I am always ready to new coding releted solving
 
-Skills:  REACT / NEXT.JS/JAVASCRIPT/MONGODB/FIREBASE/VERCEL/JS / HTML / CSS
+# Skills:
+### REACT | NEXT.JS | JAVASCRIPT | MONGODB | FIREBASE | VERCEL|JS | HTML | CSS
 
 - 🔭 I’m currently working on I am student 
 - 🌱 I’m currently learning Find the Job and learn next level developer course 
