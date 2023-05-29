@@ -8,9 +8,10 @@
 # Skills:
 ### REACT | NEXT.JS | JAVASCRIPT | MONGODB | FIREBASE | VERCEL|JS | HTML | CSS
 
-- 🔭 I’m currently working on I am student 
+
+- 🔭 I’m currently BBA(Accountint) Honors . I am student 
 - 🌱 I’m currently learning Find the Job and learn next level developer course 
-- 👯 I’m looking to collaborate on #### 
+- 👯 I’m looking to collaborate on company 
 - 🤔 I’m looking for help with Web Developer job 
 
 
